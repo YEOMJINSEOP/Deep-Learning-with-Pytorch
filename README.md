@@ -1,4 +1,7 @@
 # Pytorch
+## Code & Contents Reference From
+[Deep Learning with PyTorch] (2020)
+Authors: Luca Pietro Giovanni Antiga, ‎Eli Stevens, ‎Thomas Viehmann 
 <br></br>
 ## 1. Simplest_Image_Classification
 Pytorch에서 제공하는 module 중 하나인, ResNet 모델을 통해 
